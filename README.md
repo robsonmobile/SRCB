@@ -9,6 +9,6 @@ Importar la base de datos "librarysystem.sql" con phpmyadmin o como lo prefieras
 
 Nombre: Administrador
 
-Contraseña: 12217ins2016
+Contraseña: Administrador
 
 Tipo: Administrador

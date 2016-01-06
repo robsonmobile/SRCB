@@ -19,7 +19,7 @@ CREATE TABLE IF NOT EXISTS `administrador` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 INSERT INTO `administrador` (`CodigoAdmin`, `Estado`, `Nombre`, `NombreUsuario`, `Clave`, `Email`) VALUES
-('I12217Y2015A1N6684', 'Activo', 'Super Administrador', 'Administrador', '5fcd5d21cd3b956cb9462a22251cd800', '');
+('I12217Y2015A1N6684', 'Activo', 'Super Administrador', 'Administrador', '2a2e9a58102784ca18e2605a4e727b5f', '');
 
 CREATE TABLE IF NOT EXISTS `bitacora` (
   `Codigo` varchar(100) NOT NULL,
