@@ -11,6 +11,6 @@ Cuenta del administrador:
 
 -> Nombre: Administrador
 
--> Contraseña: 12217ins2016
+-> ContraseÃ±a: Administrador
 
 -> Tipo: Administrador
